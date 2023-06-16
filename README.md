@@ -3,17 +3,14 @@
 
 ***Conteúdo da Aula:***
 
-[CalculadorMatematico.](CalculadorMatematico.java)
-&nbsp;
-[CalculoMatematico.](CalculoMatematico.java)
-&nbsp;
-[Adicao.](Adicao.java)
-&nbsp;
-[Subtracao.](Subtracao.java)
-&nbsp;
-[Multiplicacao.](Multiplicacao.java)
-&nbsp;
-[Divisao.](Divisao.java)
+Ordem de criação dos arquivos:
+
+1. [CalculadorMatematico.](CalculadorMatematico.java)
+2. [CalculoMatematico.](CalculoMatematico.java)
+3. [Adicao.](Adicao.java)
+4. [Subtracao.](Subtracao.java)
+5. [Multiplicacao.](Multiplicacao.java)
+6. [Divisao.](Divisao.java)
 
 <!-- Informações -->
 ## &#8505; Informações
